@@ -1,5 +1,5 @@
 {
-  "name": "solis/phpbreaker",
+  "name": "conectra/phpbreaker",
   "description": "This package contains a set of exceptions shared across Solis components",
   "license": "MIT",
   "authors": [
@@ -10,7 +10,7 @@
   ],
   "require": {
     "php": "^7.0",
-    "solis/foundation": "v0.*"
+    "conectra/foundation": "v0.*"
   },
   "require-dev": {
     "phpunit/phpunit": "~v6.0",
